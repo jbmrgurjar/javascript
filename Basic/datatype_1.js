@@ -19,8 +19,16 @@ let obj={
 
 }
 // console.log(typeof obj);
-let myfunction=function(){
-    console.log("hello");
-}
+// let myfunction=function(){
+//     console.log("hello");
+// }
+// myfunction();
+// console.log(myfunction);//body
 
-console.log(myfunction);//body
+
+
+*********************************************************
+// Stack(primitive) ,heap(Non-Primitive)
+// stack copy value change 
+// heap original value change
+// let my ="jbmr@.com";
